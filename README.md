@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU2amg0NzBydDFybm41dHpicDRhM2FvZTMyeDBudnRvNGR2eTlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-# 💫 ¡Hola! Soy Rubi
-👋Una entusiasta desarrolladora que ha emprendido un apasionante viaje en el fascinante universo de la tecnología. Desde el inicio de mi travesía en el desarrollo de software, mi impulso ha sido alimentado por una curiosidad insaciable y un amor innato por resolver desafíos.<br><br>🚀 Mi enfoque principal es contribuir de manera significativa a proyectos innovadores y desafiantes. Mi energía y entusiasmo por la programación se traducen en un compromiso constante para mejorar mis habilidades y abrazar nuevas tecnologías.<br><br>💻 En mis proyectos, busco no solo crear código eficiente, sino también soluciones que impacten positivamente en la experiencia del usuario. Mi enfoque es aprender haciendo, y estoy emocionada por la oportunidad de enfrentar desafíos que expandan mis conocimientos.<br><br>🌐 Además de mi experiencia técnica, valoro la colaboración y la comunicación efectiva. Estoy convencida de que el intercambio de ideas y la cooperación son esenciales para el éxito de cualquier proyecto.<br><br>📚 Actualmente, estoy inmersa en un continuo proceso de aprendizaje, explorando nuevas tecnologías y participando activamente en la comunidad de desarrollo. Mi objetivo es contribuir al crecimiento de la tecnología y ser una profesional integral en el sector de TI.<br><br>🔍 ¡Estoy abierta a oportunidades emocionantes para colaborar y aprender junto a equipos talentosos! Si buscas a alguien apasionada, orientada a resultados y con una mentalidad de aprendizaje continuo, ¡estoy ansiosa por ser parte de tu equipo!<br><br>¡Hagamos cosas increíbles juntos! 🚀✨
-
-#
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🌐 Socials:
